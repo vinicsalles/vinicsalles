@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="perfilheader.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">My name is <strong>Vinicius Salles</strong>, i have <strong>twenty thre years old</strong>, <br>
+<p align="center">My name is <strong>Vinicius Salles</strong>, i have <strong>twenty three years old</strong>, <br>
 i'm wasborn in Petrópolis, Rio de janeiro Brazil, and study <strong>Analisty of Systems</strong> in  University Estácio de Sá.<br>
 I am searching work in area of <strong>Developing Web</strong>, I am agile and strive to learn new teachings.  <strong>Thanks for visiting my profile</strong>.</p>&nbsp;
 
