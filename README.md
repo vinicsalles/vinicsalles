@@ -2,7 +2,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="perfilheader.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">My name is <stron>Vinicius Salles</stron>, i have twenty thre years old, i'm wasborn in Petropolis, Rio de janeiro Brazil, and study <strong>Analisty of Systems</strong> in  University Estácio de Sá.
+<p align="center">My name is <stron>Vinicius Salles</strong>, i have <strong>twenty thre years old</strong>, <br>
+i'm wasborn in Petropolis, Rio de janeiro Brazil, and study <strong>Analisty of Systems</strong> in  University Estácio de Sá.<br>
 i am searching work in area of Developing Web, I am agile and strive to learn new teachings. Thanks for visiting my profile</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
