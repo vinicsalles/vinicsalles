@@ -2,7 +2,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="perfilheader.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">My name is <stron>Vinicius Salles</stron>, i have twenty thre years old, i'm wasborn in Petropolis, Rio de janeiro Brazil, and study <strong>Analisty of Systems</strong> in  University Estácio de Sá.
+i am searching work in area of Developing Web, I am agile and strive to learn new teachings. Thanks for visiting my profile</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicsalles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
