@@ -7,7 +7,7 @@ i'm wasborn in Petrópolis, Rio de janeiro Brazil, and study <strong>Analisty of
 I am searching work in area of <strong>Developing Web</strong>, I am agile and strive to learn new teachings.  <strong>Thanks for visiting my profile</strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicsalles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="github-readme-stats-kappa-orpin-64.vercel.app"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicsalles&layout=compact&langs_count=16&theme=dracula"/>
  </div>
  
