@@ -2,12 +2,60 @@
 <img align="center" style="margin-bottom:100px" width=100% src="perfilheader.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">My name is <strong>Vinicius Salles</strong>, i'm <strong>twenty four years old</strong>, <br>
-i'm wasborn in Petrópolis, Rio de janeiro Brazil, and study <strong>Analisty of Systems</strong> in  University Estácio de Sá.<br>
-I am searching work in area of <strong>Developing Web</strong>, I am agile and strive to learn new teachings.  <strong>Thanks for visiting my profile</strong>.</p>&nbsp;
+<p align="center">Olá, meu nome é <strong>Vinicius Salles</strong>, tenho <strong>24 anos</strong> e sou natural de Petrópolis, Rio de Janeiro, Brasil. <br> Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Estácio de Sá. <br> Estou em busca de oportunidades na área de <strong>Desenvolvimento Web</strong>, e me destaco pela agilidade e dedicação em aprender e aplicar novos conhecimentos. <br> <strong>Obrigado por visitar meu perfil!</strong></p>
 
-<p align="center"><strong>My portfolio </strong>- https://viniciusalles.vercel.app/</p>
-<p align="center"><strong>My Linkedin </strong>- https://www.linkedin.com/in/vinicsalles/</p>
+<p align="center"><strong>Meu portfolio </strong>- https://viniciusalles.vercel.app/</p>
+<p align="center"><strong>Meu Linkedin </strong>- https://www.linkedin.com/in/vinicsalles/</p>
+
+## 🚀 Projetos
+
+Aqui estão alguns dos projetos que desenvolvi:
+
+### [1. CIMPEP (Controle Interno de Materiais para a Escola de Engenharia de Petrópolis)](https://github.com/seu-usuario/cimpep)
+- **Código**: (https://github.com/serratec/2024_1_UFF-Sistema-de-controle-interno-de-material-de-consumo-EEP_Frontend) - FrontEnd.
+- **Código**: (https://github.com/serratec/2024_1_UFF-Sistema-de-controle-interno-de-material-de-consumo-EEP_Backend) - Backend.
+- **Descrição**: Sistema desenvolvido para gerenciar o estoque e controle de materiais da Escola de Engenharia de Petrópolis.
+- **Tecnologias**: Java, Spring Boot, PostgreSQL, React.js.
+- **Destaque**: Projeto final apresentado para a UFF (Universidade Federal Fluminense) em 3 semanas, utilizando a metodologia Scrum.
+
+---
+
+### [2. Bolites - Venda de Bolinhos de Batata-Doce](https://bolites.vercel.app)
+- **Código**: (https://github.com/vinicsalles/bolites).
+- **Descrição**: Um site elegante e funcional para venda de bolinhos de batata-doce, com foco em uma experiência visual impactante e animações suaves, este site foi criado para auxiliar um grupo de estudantes de nutrição da cidade onde moro, com o intuito de apresentar com maior propriedade a imagem de um delicioso bolinho feito com batata doce e especiarias.
+- **Tecnologias**: React.js, AOS (Animate On Scroll), CSS.
+- **Destaque**: 
+  - Animações atraentes que destacam os produtos conforme o usuário rola a página.
+  - Design responsivo, garantindo uma ótima experiência em dispositivos móveis e desktops.
+  - Interface intuitiva para facilitar a navegação e o processo de compra.
+---
+
+### [3. Portfólio Pessoal em Angular](https://vinicius-angular.vercel.app/)
+- **Código**: (https://github.com/vinicsalles/viniciusAngular).
+- **Descrição**: Meu portfólio pessoal desenvolvido em Angular para apresentar minhas habilidades, projetos e experiência.
+- **Tecnologias**: Angular, TypeScript, CSS.
+- **Destaque**: Layout moderno com responsividade e temas claro/escuro.
+---
+
+### [4. Moedas Club - Conversor de Moeda (Dólar e Euro para Real)](https://moedas-club.vercel.app/)
+- **Código**: (https://github.com/vinicsalles/MoedasClub).
+- **Descrição**: Plataforma de conversão de moedas com cotações em tempo real para conversão de Dólar e Euro para Real.
+- **Tecnologias**: React.js, React Router DOM, APIs para cotação em tempo real.
+- **Destaque**:
+  - Cotações atualizadas automaticamente para Dólar e Euro.
+  - Interface simples e funcional, com suporte para múltiplas rotas.
+  - Utilização de APIs para garantir precisão nas conversões.
+---
+
+### [5. Portfólio Pessoal - HTML, CSS e JavaScript](https://viniciusalles.vercel.app/)
+- **Código**: (https://github.com/vinicsalles/viniciusalles).
+- **Descrição**: Meu portfólio pessoal, criado com HTML, CSS e JavaScript, para exibir minhas habilidades, projetos e experiência profissional.
+- **Tecnologias**: HTML, CSS, JavaScript.
+- **Destaque**:
+  - Design moderno e responsivo com suporte a temas claro e escuro.
+  - Animações suaves e transições para uma navegação fluída.
+  - Seção dedicada a projetos, habilidades e experiência.
+---
 
 <div  align="center" style="margin-bottom:100px">
 <img height="180em" src="https://github-readme-stats-kappa-orpin-64.vercel.app/api?username=vinicsalles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
