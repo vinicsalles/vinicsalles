@@ -51,7 +51,6 @@ Aqui estão alguns dos projetos que desenvolvi:
 - **Descrição**: Meu portfólio pessoal, criado com HTML, CSS e JavaScript, para exibir minhas habilidades, projetos e experiência profissional.
 - **Tecnologias**: HTML, CSS, JavaScript.
 - **Destaque**:
-  - Design moderno e responsivo com suporte a temas claro e escuro.
   - Animações suaves e transições para uma navegação fluída.
   - Seção dedicada a projetos, habilidades e experiência.
 ---
