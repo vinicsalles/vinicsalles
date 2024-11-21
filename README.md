@@ -34,7 +34,6 @@ Aqui estão alguns dos projetos que desenvolvi:
 - **Código**: (https://github.com/vinicsalles/viniciusAngular).
 - **Descrição**: Meu portfólio pessoal desenvolvido em Angular para apresentar minhas habilidades, projetos e experiência.
 - **Tecnologias**: Angular, TypeScript, CSS.
-- **Destaque**: Layout moderno com responsividade e temas claro/escuro.
 ---
 
 ### [4. Moedas Club - Conversor de Moeda (Dólar e Euro para Real)](https://moedas-club.vercel.app/)
