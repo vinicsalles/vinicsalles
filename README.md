@@ -2,11 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="perfilheader.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Sou apaixonado por tecnologia, recém formado em Análise e Desenvolvimento de Sistemas pela
-estácio, durante meus estudos conheci a área de Cloud Computing e busco uma oportunidade para
-desenvolver minhas em tecnologias relacionadas ao Cloud Computing, como AWS, Docker,
-Kubernetes, Terraform, me especializando na área DevOps. Meu objetivo é ingressar como Trainee
-ou Júnior e me desenvolver e crescer junto com a organização. <br> <strong>Obrigado por visitar meu perfil!</strong></p>
+<p align="center">Olá, meu nome é <strong>Vinicius Salles</strong>, tenho <strong>24 anos</strong> e sou natural de Petrópolis, Rio de Janeiro, Brasil. <br> Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Estácio de Sá. <br> Estou em busca de oportunidades na área de <strong>Desenvolvimento Web</strong>, e me destaco pela agilidade e dedicação em aprender e aplicar novos conhecimentos. <br> <strong>Obrigado por visitar meu perfil!</strong></p>
 
 <p align="center"><strong>Meu portfolio </strong>- https://viniciusalles.vercel.app/</p>
 <p align="center"><strong>Meu Linkedin </strong>- https://www.linkedin.com/in/vinicsalles/</p>
@@ -34,31 +30,6 @@ Aqui estão alguns dos projetos que desenvolvi:
   - Interface intuitiva para facilitar a navegação e o processo de compra.
 ---
 
-### [3. Portfólio Pessoal em Angular](https://vinicius-angular.vercel.app/)
-- **Código**: (https://github.com/vinicsalles/viniciusAngular).
-- **Descrição**: Meu portfólio pessoal desenvolvido em Angular para apresentar minhas habilidades, projetos e experiência.
-- **Tecnologias**: Angular, TypeScript, CSS.
----
-
-### [4. Moedas Club - Conversor de Moeda (Dólar e Euro para Real)](https://moedas-club.vercel.app/)
-- **Código**: (https://github.com/vinicsalles/MoedasClub).
-- **Descrição**: Plataforma de conversão de moedas com cotações em tempo real para conversão de Dólar e Euro para Real.
-- **Tecnologias**: React.js, React Router DOM, APIs para cotação em tempo real.
-- **Destaque**:
-  - Cotações atualizadas automaticamente para Dólar e Euro.
-  - Interface simples e funcional, com suporte para múltiplas rotas.
-  - Utilização de APIs para garantir precisão nas conversões.
----
-
-### [5. Portfólio Pessoal - HTML, CSS e JavaScript](https://viniciusalles.vercel.app/)
-- **Código**: (https://github.com/vinicsalles/viniciusalles).
-- **Descrição**: Meu portfólio pessoal, criado com HTML, CSS e JavaScript, para exibir minhas habilidades, projetos e experiência profissional.
-- **Tecnologias**: HTML, CSS, JavaScript.
-- **Destaque**:
-  - Animações suaves e transições para uma navegação fluída.
-  - Seção dedicada a projetos, habilidades e experiência.
----
-
 <div  align="center" style="margin-bottom:100px">
 <img height="180em" src="https://github-readme-stats-kappa-orpin-64.vercel.app/api?username=vinicsalles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicsalles&layout=compact&langs_count=16&theme=dark"/>
@@ -72,21 +43,27 @@ Aqui estão alguns dos projetos que desenvolvi:
 ## My Skills
 
 #### Main Stack:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+#### Secondary Stack:
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 #### Databases:
