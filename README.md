@@ -2,7 +2,11 @@
 <img align="center" style="margin-bottom:100px" width=100% src="perfilheader.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá, meu nome é <strong>Vinicius Salles</strong>, tenho <strong>24 anos</strong> e sou natural de Petrópolis, Rio de Janeiro, Brasil. <br> Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Estácio de Sá. <br> Estou em busca de oportunidades na área de <strong>Desenvolvimento Web</strong>, e me destaco pela agilidade e dedicação em aprender e aplicar novos conhecimentos. <br> <strong>Obrigado por visitar meu perfil!</strong></p>
+<p align="center">Sou apaixonado por tecnologia, recém formado em Análise e Desenvolvimento de Sistemas pela
+estácio, durante meus estudos conheci a área de Cloud Computing e busco uma oportunidade para
+desenvolver minhas em tecnologias relacionadas ao Cloud Computing, como AWS, Docker,
+Kubernetes, Terraform, me especializando na área DevOps. Meu objetivo é ingressar como Trainee
+ou Júnior e me desenvolver e crescer junto com a organização.</p>
 
 <p align="center"><strong>Meu portfolio </strong>- https://viniciusalles.vercel.app/</p>
 <p align="center"><strong>Meu Linkedin </strong>- https://www.linkedin.com/in/vinicsalles/</p>
