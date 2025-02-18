@@ -1,6 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="perfilheader.png" />
-&nbsp;&nbsp;&nbsp;
+
 
 <p align="center">Sou apaixonado por tecnologia, recém formado em Análise e Desenvolvimento de Sistemas pela
 estácio, durante meus estudos conheci a área de Cloud Computing e busco uma oportunidade para
@@ -92,9 +91,3 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vinicim2808) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinicim_salles) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicsalles) 
-
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
