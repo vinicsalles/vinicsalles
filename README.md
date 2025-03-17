@@ -1,9 +1,5 @@
 <h1 align="center"> 👋 Olá! Eu sou Vinicius Salles </h1>
-<p align="center">Sou apaixonado por tecnologia, recém formado em Análise e Desenvolvimento de Sistemas pela
-estácio, durante meus estudos conheci a área de Cloud Computing e busco uma oportunidade para
-desenvolver minhas em tecnologias relacionadas ao Cloud Computing, como AWS, Docker,
-Kubernetes, Terraform, me especializando na área DevOps. Meu objetivo é ingressar como Trainee
-ou Júnior e me desenvolver e crescer junto com a organização.</p>
+<p align="center">Recém-formado em Análise e Desenvolvimento de Sistemas pela Estácio, sou apaixonado por tecnologia e focado na área de DevOps. Possuo conhecimentos em AWS, Docker, Kubernetes e Terraform, buscando uma oportunidade como Trainee ou Júnior para crescer e contribuir com a automação e otimização de processos.</p>
 
 <p align="center"><strong>Meu portfolio </strong>- https://viniciusalles.vercel.app/</p>
 <p align="center"><strong>Meu Linkedin </strong>- https://www.linkedin.com/in/vinicsalles/</p>
