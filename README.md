@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Olá! Eu sou Vinicius Salles </h1>
-<p align="center">Recém-formado em Análise e Desenvolvimento de Sistemas pela Estácio, sou apaixonado por tecnologia e focado na área de DevOps. Possuo conhecimentos em AWS, Docker, Kubernetes e Terraform, buscando uma oportunidade como Trainee ou Júnior para crescer e contribuir com a automação e otimização de processos.</p>
+<p align="center">Recém-formado em Análise e Desenvolvimento de Sistemas pela Estácio, sou apaixonado por tecnologia e atuo como Desenvolvedor Back End Java. Tenho experiência com Java, Spring Boot, APIs RESTful e bancos de dados relacionais, sempre buscando escrever código limpo, eficiente e de fácil manutenção.</p>
 
 <p align="center"><strong>Meu portfolio </strong>- https://viniciusalles.vercel.app/</p>
 <p align="center"><strong>Meu Linkedin </strong>- https://www.linkedin.com/in/vinicsalles/</p>
